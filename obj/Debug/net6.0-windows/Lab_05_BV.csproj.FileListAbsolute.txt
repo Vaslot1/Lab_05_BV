@@ -1,0 +1,51 @@
+C:\Users\Vaslot\source\repos\Lab_05_BV\bin\Debug\net6.0-windows\Lab_05_BV.exe
+C:\Users\Vaslot\source\repos\Lab_05_BV\bin\Debug\net6.0-windows\Lab_05_BV.deps.json
+C:\Users\Vaslot\source\repos\Lab_05_BV\bin\Debug\net6.0-windows\Lab_05_BV.runtimeconfig.json
+C:\Users\Vaslot\source\repos\Lab_05_BV\bin\Debug\net6.0-windows\Lab_05_BV.dll
+C:\Users\Vaslot\source\repos\Lab_05_BV\bin\Debug\net6.0-windows\Lab_05_BV.pdb
+C:\Users\Vaslot\source\repos\Lab_05_BV\obj\Debug\net6.0-windows\Lab_05_BV.csproj.AssemblyReference.cache
+C:\Users\Vaslot\source\repos\Lab_05_BV\obj\Debug\net6.0-windows\Lab_05_BV.Form1.resources
+C:\Users\Vaslot\source\repos\Lab_05_BV\obj\Debug\net6.0-windows\Lab_05_BV.csproj.GenerateResource.cache
+C:\Users\Vaslot\source\repos\Lab_05_BV\obj\Debug\net6.0-windows\Lab_05_BV.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vaslot\source\repos\Lab_05_BV\obj\Debug\net6.0-windows\Lab_05_BV.AssemblyInfoInputs.cache
+C:\Users\Vaslot\source\repos\Lab_05_BV\obj\Debug\net6.0-windows\Lab_05_BV.AssemblyInfo.cs
+C:\Users\Vaslot\source\repos\Lab_05_BV\obj\Debug\net6.0-windows\Lab_05_BV.csproj.CoreCompileInputs.cache
+C:\Users\Vaslot\source\repos\Lab_05_BV\obj\Debug\net6.0-windows\Lab_05_BV.dll
+C:\Users\Vaslot\source\repos\Lab_05_BV\obj\Debug\net6.0-windows\refint\Lab_05_BV.dll
+C:\Users\Vaslot\source\repos\Lab_05_BV\obj\Debug\net6.0-windows\Lab_05_BV.pdb
+C:\Users\Vaslot\source\repos\Lab_05_BV\obj\Debug\net6.0-windows\Lab_05_BV.genruntimeconfig.cache
+C:\Users\Vaslot\source\repos\Lab_05_BV\obj\Debug\net6.0-windows\ref\Lab_05_BV.dll
+E:\2Курс\Технологии программирования\Lab_05_BV\bin\Debug\net6.0-windows\Lab_05_BV.exe
+E:\2Курс\Технологии программирования\Lab_05_BV\bin\Debug\net6.0-windows\Lab_05_BV.deps.json
+E:\2Курс\Технологии программирования\Lab_05_BV\bin\Debug\net6.0-windows\Lab_05_BV.runtimeconfig.json
+E:\2Курс\Технологии программирования\Lab_05_BV\bin\Debug\net6.0-windows\Lab_05_BV.dll
+E:\2Курс\Технологии программирования\Lab_05_BV\bin\Debug\net6.0-windows\Lab_05_BV.pdb
+E:\2Курс\Технологии программирования\Lab_05_BV\obj\Debug\net6.0-windows\Lab_05_BV.csproj.AssemblyReference.cache
+E:\2Курс\Технологии программирования\Lab_05_BV\obj\Debug\net6.0-windows\Lab_05_BV.Form1.resources
+E:\2Курс\Технологии программирования\Lab_05_BV\obj\Debug\net6.0-windows\Lab_05_BV.csproj.GenerateResource.cache
+E:\2Курс\Технологии программирования\Lab_05_BV\obj\Debug\net6.0-windows\Lab_05_BV.GeneratedMSBuildEditorConfig.editorconfig
+E:\2Курс\Технологии программирования\Lab_05_BV\obj\Debug\net6.0-windows\Lab_05_BV.AssemblyInfoInputs.cache
+E:\2Курс\Технологии программирования\Lab_05_BV\obj\Debug\net6.0-windows\Lab_05_BV.AssemblyInfo.cs
+E:\2Курс\Технологии программирования\Lab_05_BV\obj\Debug\net6.0-windows\Lab_05_BV.csproj.CoreCompileInputs.cache
+E:\2Курс\Технологии программирования\Lab_05_BV\obj\Debug\net6.0-windows\Lab_05_BV.dll
+E:\2Курс\Технологии программирования\Lab_05_BV\obj\Debug\net6.0-windows\refint\Lab_05_BV.dll
+E:\2Курс\Технологии программирования\Lab_05_BV\obj\Debug\net6.0-windows\Lab_05_BV.pdb
+E:\2Курс\Технологии программирования\Lab_05_BV\obj\Debug\net6.0-windows\Lab_05_BV.genruntimeconfig.cache
+E:\2Курс\Технологии программирования\Lab_05_BV\obj\Debug\net6.0-windows\ref\Lab_05_BV.dll
+I:\2Курс\Технологии программирования\Lab_05_BV\bin\Debug\net6.0-windows\Lab_05_BV.exe
+I:\2Курс\Технологии программирования\Lab_05_BV\bin\Debug\net6.0-windows\Lab_05_BV.deps.json
+I:\2Курс\Технологии программирования\Lab_05_BV\bin\Debug\net6.0-windows\Lab_05_BV.runtimeconfig.json
+I:\2Курс\Технологии программирования\Lab_05_BV\bin\Debug\net6.0-windows\Lab_05_BV.dll
+I:\2Курс\Технологии программирования\Lab_05_BV\bin\Debug\net6.0-windows\Lab_05_BV.pdb
+I:\2Курс\Технологии программирования\Lab_05_BV\obj\Debug\net6.0-windows\Lab_05_BV.csproj.AssemblyReference.cache
+I:\2Курс\Технологии программирования\Lab_05_BV\obj\Debug\net6.0-windows\Lab_05_BV.Form1.resources
+I:\2Курс\Технологии программирования\Lab_05_BV\obj\Debug\net6.0-windows\Lab_05_BV.csproj.GenerateResource.cache
+I:\2Курс\Технологии программирования\Lab_05_BV\obj\Debug\net6.0-windows\Lab_05_BV.GeneratedMSBuildEditorConfig.editorconfig
+I:\2Курс\Технологии программирования\Lab_05_BV\obj\Debug\net6.0-windows\Lab_05_BV.AssemblyInfoInputs.cache
+I:\2Курс\Технологии программирования\Lab_05_BV\obj\Debug\net6.0-windows\Lab_05_BV.AssemblyInfo.cs
+I:\2Курс\Технологии программирования\Lab_05_BV\obj\Debug\net6.0-windows\Lab_05_BV.csproj.CoreCompileInputs.cache
+I:\2Курс\Технологии программирования\Lab_05_BV\obj\Debug\net6.0-windows\Lab_05_BV.dll
+I:\2Курс\Технологии программирования\Lab_05_BV\obj\Debug\net6.0-windows\refint\Lab_05_BV.dll
+I:\2Курс\Технологии программирования\Lab_05_BV\obj\Debug\net6.0-windows\Lab_05_BV.pdb
+I:\2Курс\Технологии программирования\Lab_05_BV\obj\Debug\net6.0-windows\Lab_05_BV.genruntimeconfig.cache
+I:\2Курс\Технологии программирования\Lab_05_BV\obj\Debug\net6.0-windows\ref\Lab_05_BV.dll
